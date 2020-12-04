@@ -1,0 +1,25 @@
+{
+  "name": "NEWEMPLOYEE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smcc811/NEWEMPLOYEE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smcc811/NEWEMPLOYEE/issues"
+  },
+  "homepage": "https://github.com/smcc811/NEWEMPLOYEE#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "nodemailer": "^6.4.16",
+    "path": "^0.12.7"
+  }
+}
